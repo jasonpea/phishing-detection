@@ -1,7 +1,7 @@
 # phishing-detection
 # Phishing Detection Chrome Extension
 
-![Phishing Detection] 
+
 
 ## Table of Contents
 - [Overview](#overview)
