@@ -1,7 +1,7 @@
 # phishing-detection
 # Phishing Detection Chrome Extension
 
-![Phishing Detection](https://example.com/your-image.png) <!-- Replace with an actual image URL -->
+![Phishing Detection] 
 
 ## Table of Contents
 - [Overview](#overview)
