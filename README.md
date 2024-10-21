@@ -27,11 +27,11 @@ To install the Phishing Detection Chrome Extension:
 1. **Download the source code**: Clone or download the repository to your local machine.
    ```bash
    git clone https://github.com/jasonpea/phishing-detection.git
-2. **Open Chrome and navigate to chrome://extensions/.
+2. Open Chrome and navigate to chrome://extensions/.
 
-3. **Enable Developer Mode: Toggle the switch in the top right corner of the Extensions page.
+3. Enable Developer Mode: Toggle the switch in the top right corner of the Extensions page.
 
-4. **Load Unpacked: Click on the "Load unpacked" button and select the directory where the extension files are located (the folder you cloned or downloaded).
+4. Load Unpacked: Click on the "Load unpacked" button and select the directory where the extension files are located (the folder you cloned or downloaded).
 
 Enjoy: The extension should now be installed and ready to use!
 
