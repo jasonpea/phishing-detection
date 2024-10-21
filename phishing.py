@@ -139,11 +139,11 @@ except ValueError as e:
     print(f"Error during prediction: {e}")
 
 # Evaluate model performance on the test set
-print("\nConfusion Matrix:")
-print(confusion_matrix(y_test, y_pred))
+# print("\nConfusion Matrix:")
+# print(confusion_matrix(y_test, y_pred))
 
-print("\nClassification Report:")
-print(classification_report(y_test, y_pred))
+# print("\nClassification Report:")
+# print(classification_report(y_test, y_pred))
 
 
 
